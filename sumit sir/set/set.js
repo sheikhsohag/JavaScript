@@ -28,5 +28,5 @@ st.forEach(function(value){
 
 for(const x of st.values())
 {
-    console.log(x);
+    console.log(st.size);
 }
